@@ -20,7 +20,7 @@ export default function FirstPost({ result }) {
       <Head>
         <title>Primer Post</title>
       </Head>
-      <h1>First Post</h1>
+      <h1>First Post, First Branch</h1>
       <h2>
         <Link href="/">
           <a>Back to home</a>
