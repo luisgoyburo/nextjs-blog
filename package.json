@@ -13,6 +13,7 @@
   },
   "dependencies": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "date-fns": "^2.21.1",
     "gray-matter": "^4.0.2",
     "next": "^10.0.0",
@@ -21,6 +22,10 @@
     "remark": "^13.0.0",
     "remark-html": "^13.0.1"
 =======
+=======
+    "classnames": "^2.3.1",
+    "gray-matter": "^4.0.3",
+>>>>>>> 7f6acb1 (Este es el primer commit de esta aplicacion)
     "next": "^10.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1"
